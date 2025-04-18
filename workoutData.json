@@ -1,0 +1,181 @@
+{
+  "schedule": [
+    {
+      "day": "الأحد",
+      "focus": "الذراع (بايسبس + ترايسبس)",
+      "exercises": [
+        {
+          "name": "Barbell Bicep Curl",
+          "ar": "بار بايسبس مستقيم"
+        },
+        {
+          "name": "Dumbbell Hammer Curl",
+          "ar": "هامر دمبل"
+        },
+        {
+          "name": "Concentration Curl",
+          "ar": "باي تركيز جالس"
+        },
+        {
+          "name": "EZ Bar Skull Crushers",
+          "ar": "سكُل كراشر ببار مقوس"
+        },
+        {
+          "name": "Rope Triceps Pushdown",
+          "ar": "دفع كابل تراي بالحبل"
+        },
+        {
+          "name": "Overhead Dumbbell Triceps Extension",
+          "ar": "تمديد ترايسبس دمبل فوق الرأس"
+        }
+      ]
+    },
+    {
+      "day": "الاثنين",
+      "focus": "الرجل (Legs)",
+      "exercises": [
+        {
+          "name": "Barbell Squat",
+          "ar": "سكوات بالبار"
+        },
+        {
+          "name": "Romanian Deadlift",
+          "ar": "ديدليفت روماني"
+        },
+        {
+          "name": "Leg Press Machine",
+          "ar": "بريس الأرجل"
+        },
+        {
+          "name": "Static Lunge (In-Place Lunge)",
+          "ar": "لانجز ثابت في المكان"
+        },
+        {
+          "name": "front",
+          "ar": "جهاز الاماميه"
+        },
+        {
+          "name": "Calf Raises",
+          "ar": "رفع السمانة"
+        }
+      ]
+    },
+    {
+      "day": "الثلاثاء",
+      "focus": "الكتف والترابيس (Shoulders & Traps)",
+      "exercises": [
+        {
+          "name": "Barbell Overhead Press",
+          "ar": "ضغط بار كتف عسكري"
+        },
+        {
+          "name": "Dumbbell Lateral Raise",
+          "ar": "رفرفة جانبية دمبل"
+        },
+        {
+          "name": "Rear Delt Fly",
+          "ar": "رفرفة خلفية للكتف"
+        },
+        {
+          "name": "Dumbbell Arnold Press",
+          "ar": "ضغط أرنولد دمبل"
+        },
+        {
+          "name": "Front Raise Machine",
+          "ar": "رفع أمامي على الجهاز"
+        },
+        {
+          "name": "Cable Face Pull",
+          "ar": "سحب الوجه بالكابل — خلفي وترابيس"
+        },
+        {
+          "name": "Dumbbell Shrugs",
+          "ar": "هز دمبل للترابيس"
+        }
+      ]
+    },    
+    {
+      "day": "الأربعاء",
+      "focus": "الظهر + باي",
+      "exercises": [
+        
+        {
+          "name": "T-Bar Row",
+          "ar": "تجديف T بار"
+        },
+        {
+          "name": "Barbell Bent Over Row",
+          "ar": "تجديف بار"
+        },
+        {
+          "name": "Lat Pulldown (Wide Grip)",
+          "ar": "سحب علوي قبضة واسعة"
+        },
+        {
+          "name": "Seated Cable Row (Wide Grip)",
+          "ar": "سحب أرضي بالكابل قبضة واسعة"
+        },
+        {
+          "name": "Chest Supported Row",
+          "ar": "تجديف على جهاز دعم الصدر"
+        },
+        {
+          "name": "-",
+          "ar": "قطنيه دامبلز"
+        },
+        {
+          "name": "Face Pull",
+          "ar": "سحب الوجه بالكابل"
+        },
+        {
+          "name": "Incline Dumbbell Curl",
+          "ar": "باي مائل دمبل"
+        }
+      ]
+    }
+    ,
+    {
+      "day": "الخميس",
+      "focus": "الصدر + التراي",
+      "exercises": [
+        {
+          "name": "Incline Barbell Press",
+          "ar": "ضغط بنش علوي بار"
+        },
+        {
+          "name": "Flat Dumbbell Press",
+          "ar": " بار مسطح"
+        },
+        {
+          "name": "Incline Dumbbell press",
+          "ar": "دامبل عالى تجميع "
+        },
+        {
+          "name": "Chest Dips (Lean Forward)",
+          "ar": "متوازي صدر مع ميل للأمام"
+        },
+        {
+          "name": "Flat Dumbbell Fly",
+          "ar": "فراشة دمبل مسطح (تفتيح)"
+        },
+        {
+          "name": "High to Low Cable Crossover",
+          "ar": "كروس أوفر عالي للسفلي (تجميع)"
+        },
+        {
+          "name": "Rope Triceps Pushdown",
+          "ar": "دفع كابل تراي بالحبل"
+        },
+        {
+          "name": "Overhead Cable Triceps Extension",
+          "ar": "تمديد تراي كابل فوق الرأس"
+        },
+        {
+          "name": "Skull Crushers (EZ Bar)",
+          "ar": "سكَل كرشَر بالبار الزِد لتضخيم التراي"
+        }
+      ]
+    }
+    
+  ]
+}

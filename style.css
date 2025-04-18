@@ -1,0 +1,38 @@
+
+body {
+  font-family: 'Cairo', sans-serif;
+  background-color: #f9f9f9;
+  color: #222;
+  padding: 20px;
+}
+
+h1 {
+  color: #d32f2f;
+  text-align: center;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  background-color: #fff;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+th, td {
+  padding: 16px;
+  text-align: right;
+  border-bottom: 1px solid #ccc;
+}
+
+th {
+  background-color: #d32f2f;
+  color: white;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+li {
+  margin-bottom: 8px;
+}
