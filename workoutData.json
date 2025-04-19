@@ -1,6 +1,7 @@
 {
   "schedule": [
     {
+      "dayNum":0,
       "day": "الأحد",
       "focus": "الذراع (بايسبس + ترايسبس)",
       "exercises": [
@@ -31,6 +32,7 @@
       ]
     },
     {
+      "dayNum":1,
       "day": "الاثنين",
       "focus": "الرجل (Legs)",
       "exercises": [
@@ -61,6 +63,7 @@
       ]
     },
     {
+      "dayNum":2,
       "day": "الثلاثاء",
       "focus": "الكتف والترابيس (Shoulders & Traps)",
       "exercises": [
@@ -95,6 +98,7 @@
       ]
     },    
     {
+      "dayNum":3,
       "day": "الأربعاء",
       "focus": "الظهر + باي",
       "exercises": [
@@ -135,6 +139,7 @@
     }
     ,
     {
+      "dayNum":4,
       "day": "الخميس",
       "focus": "الصدر + التراي",
       "exercises": [

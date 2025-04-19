@@ -1,39 +1,83 @@
-
 body {
   font-family: 'Cairo', sans-serif;
-  background-color: #f9f9f9;
-  color: #222;
+  background-color: #121212;
+  color: #eeeeee;
   padding: 20px;
-  font-size:1.5rem
+  margin: 0;
 }
 
 h1 {
-  color: #d32f2f;
+  color: #ff6f61;
   text-align: center;
+  font-size: 42px;
+  margin-bottom: 30px;
 }
 
-table {
+.content {
+  padding: 10px;
+  margin: auto;
   width: 100%;
-  border-collapse: collapse;
-  background-color: #fff;
-  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  max-width: 600px;
 }
 
-th, td {
-  padding: 16px;
-  text-align: right;
-  border-bottom: 1px solid #ccc;
-}
-
-th {
-  background-color: #d32f2f;
-  color: white;
+h2 {
+  font-size: 28px;
+  text-align: center;
+  margin-bottom: 20px;
+  color: #ffffff;
 }
 
 ul {
-  padding-left: 20px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
 }
 
 li {
-  margin-bottom: 8px;
+  font-size: 18px;
+  padding: 12px;
+  background: #2a2a2a;
+  border-radius: 8px;
+  margin: 8px 0;
+  color: #ffffff;
+  transition: background 0.3s;
+}
+
+li:hover {
+  background: #3a3a3a;
+}
+
+p {
+  font-size: 32px;
+  color: #ff6f61;
+  font-weight: 800;
+  text-align: center;
+  margin-top: 40px;
+}
+
+/* 📱 Responsive Design */
+@media (max-width: 600px) {
+  h1 {
+    font-size: 22px;
+    border: 1px solid #ff6f61;
+    border-color: transparent transparent #ff6f61 transparent;
+    padding:5px
+  }
+
+  h2 {
+    font-size: 22px;
+  }
+
+  li {
+    font-size: 16px;
+    padding: 10px;
+  }
+
+  p {
+    font-size: 24px;
+    color:white
+  }
 }
