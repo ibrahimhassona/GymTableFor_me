@@ -45,7 +45,7 @@ const MainFunction = async () => {
 // ---- Function To Return Daily excercises ----
 const filterData = (data) => {
   let date = new Date().getDay();
-  const dataFilterd = data.filter((item) => item.dayNum === 2);
+  const dataFilterd = data.filter((item) => item.dayNum === date);
   return dataFilterd;
 };
 
